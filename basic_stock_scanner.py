@@ -42,7 +42,7 @@ class SimpleRecommender():
         :return: list of stocks less than MA
         '''
 
-        
+
 
 
 
